@@ -346,7 +346,7 @@
   }
   function injectAssets(url, waitFor, callback) {
     if (isNil(url)) {
-      console.error('Inject assets error');
+      console.error('Inject src error');
       return;
     }
     if (isFunction(waitFor)) {

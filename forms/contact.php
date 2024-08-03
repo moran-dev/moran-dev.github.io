@@ -5,9 +5,7 @@
   * The library should be uploaded to: vendor/php-email-form/php-email-form.php
   * For more info and help: https://bootstrapmade.com/php-email-form/
   */
-
-  // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+  $receiving_email_address = 'vitormoran22@gmail.com';
 
   if( file_exists($php_email_form = '../src/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );

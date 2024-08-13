@@ -1273,3 +1273,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.portfolio-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 225px;
+}
